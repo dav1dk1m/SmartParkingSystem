@@ -5,6 +5,6 @@ This project is aim to develop a smart car parking system utilizing a microcontr
 
 
 - [Datasheets](/Datasheet/)
-- [Schematic](/351%20Project-Schematic.pdf)
-- [Functional Specification]()
+- [Schematic](/Documents/Updated_351%20Project-Schematic.pdf)
+- [Functional Specification](/Documents/Functional%20Specification_David%20Kim.pdf)
 - [Project Report]()
